@@ -4,7 +4,7 @@ function sum() {
 }
 const arr = [30];
 console.log(sum() - arr[0]);
-
+console.log("Hello world")
 const Array = [
   { id: 1, name: "sovandara" },
   { id: 2, name: "sovandara" },
